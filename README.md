@@ -1,7 +1,7 @@
 
 ## Overview
 
-[Recipe Image](./recpie.jpg)
+[Recipe Image](recpie.jpg)
 
 This project is a solution to the [Frontend Mentor Recipe Page challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The goal of this challenge is to build a recipe page that is both functional and responsive. The page is built using **Tailwind CSS**, a utility-first CSS framework, to create a clean, mobile-first design.
 
